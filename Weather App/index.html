@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weather Forecast</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <div class="search-box">
+      <input type="text" placeholder="Enter city name" class="search-input">
+      <button class="search-btn">
+        <img src="https://img.icons8.com/fluency-systems-regular/48/000000/search.png" alt="Search">
+      </button>
+    </div>
+    <div class="error-message">
+      <p>Invalid city name. Please try again.</p>
+    </div>
+    <div class="weather-info">
+      <img src="https://img.icons8.com/color/96/000000/sun.png" alt="Weather Icon" class="weather-icon">
+      <h1 class="temperature">25°C</h1>
+      <h2 class="city-name">New York</h2>
+      <div class="details">
+        <div class="detail">
+          <img src="https://img.icons8.com/color/48/000000/smog.png" alt="Humidity">
+          <span class="humidity">60%</span>
+          <p>Humidity</p>
+        </div>
+        <div class="detail">
+          <img src="https://img.icons8.com/color/48/000000/wind.png" alt="Wind Speed">
+          <span class="wind-speed">10 km/h</span>
+          <p>Wind Speed</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
