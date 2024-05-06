@@ -14,9 +14,4 @@ If you'd like to contribute to this project, please follow these steps:
 4. Push the branch (`git push origin feature/your-feature`)
 5. Open a pull request
 
-## License
-
-Specify the license under which your project is distributed. For example:
-
-This project is licensed under the [MIT License](LICENSE).
 
