@@ -20,10 +20,3 @@ Specify the license under which your project is distributed. For example:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-If you'd like to give credit to any resources, libraries, or individuals who have contributed to your project, you can do so here.
-
-- [Resource 1](https://example.com)
-- [Resource 2](https://example.com)
-- [Contributors](https://github.com/your-username/project-name/graphs/contributors)
