@@ -1,3 +1,7 @@
+![Screenshot 2024-05-15 150338](https://github.com/ShubhamPatilSp/Weather-Website-/assets/122681369/aaf5e9ee-cf1c-4844-ab5a-edf94f60283e)
+![Screenshot 2024-05-15 150354](https://github.com/ShubhamPatilSp/Weather-Website-/assets/122681369/6947e160-37e7-4453-aff0-1468c461b807)
+
+
 The application should now be running at `http://localhost:3000`.
 
 ## Usage
